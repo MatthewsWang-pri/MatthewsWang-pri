@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatthewsWang-pri
+- 👋 Hi, I’m Joshua
 - 👀 I’m interested in Anime and video games
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on 
